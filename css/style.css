@@ -31,7 +31,7 @@ body {
       top: 0;
       background-color:#999999;
       margin: 15px;
-      padding: 15px;
+      padding: 30px;
       border: 3px solid #000;
 }
 
@@ -43,9 +43,8 @@ body {
 
 #chicken {
   top:0;
-  right: 0px;
-  background: green; 
-  padding: 6px 90px;
+  right: 0px; 
+  padding: 6px 6px;
   border-left: 2px solid #000;
   border-bottom: 2px solid #000;
   background-color: #D59898;
@@ -55,8 +54,7 @@ body {
 #beef {
   top:0;
   right: 0px;
-  background: green; 
-  padding: 6px 90px;
+  padding: 6px 6px;
   border-left: 2px solid #000;
   border-bottom: 2px solid #000;
   background-color: #C14543;
@@ -66,8 +64,7 @@ body {
 #sushi {
   top:0;
   right: 0px;
-  background: green; 
-  padding: 6px 90px;
+  padding: 6px 6px;
   border-left: 2px solid #000;
   border-bottom: 2px solid #000;
   background-color: #E5D198;
